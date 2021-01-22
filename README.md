@@ -1,6 +1,6 @@
 ### Hi there, I'm Abu Naser!!!👋
 
-- 👉 I’m currently working on and corrosion project and building knowledge exchange app using MySQL, Express.JS, React.JS and Node.JS. 
+- 👉 I’m currently working on and corrosion project and creating knowledge exchange app using MySQL, Express.JS, React.JS and Node.JS. 
 - 👉 I’m currently learning everything 😄... ML, DL, Flux and Spring-boot frameworks
 - 👉 I’m looking to collaborate on ML and Deep learning project
 - 👉 I’m looking for help with AWS 
