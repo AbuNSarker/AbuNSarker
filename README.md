@@ -9,7 +9,11 @@
 - 👉 I’m looking to collaborate on ML and Deep learning project
 - 👉 I’m looking for help with AWS 
 - 👉 2021 Goals: Contribute more to Open Source projects
-
+- 🔭 I’m currently working on knowledge exchange app and corrosion project
+- 🌱 I’m currently learning everything 🤣... Flux and Spring-boot frameworks
+- 👯 I’m looking to collaborate on ML and Deep learning project
+- 🤔 I’m looking for help with AWS 
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 
 
