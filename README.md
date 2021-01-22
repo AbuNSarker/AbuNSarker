@@ -6,7 +6,6 @@
 - 👉 I’m looking for help with AWS 
 - 👉 2021 Goals: Contribute more to Open Source projects
 
-<br />
 
 ### Languages and Tools:
 
