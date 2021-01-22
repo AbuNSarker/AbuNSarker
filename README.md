@@ -9,5 +9,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything 
 - 📫 How to reach me: ...via Linkedin
 - 😄 Pronouns: ... He/His
-- ⚡ Fun fact: ... I am half finish!
+
 
