@@ -1,4 +1,4 @@
-### Hi there, I'm Abu Naser!!!👋
+### Hi there, I'm Abu Naser Sarker!!!👋
 
 - 👉 I’m currently working on and corrosion project and creating a knowledge exchange app using MySQL, Express, React and Node. 
 - 👉 I’m currently learning everything 😄... ML, DL, Flux and Spring-boot frameworks
