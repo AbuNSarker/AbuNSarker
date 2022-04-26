@@ -61,7 +61,7 @@
   <!--END_SECTION:activity-->
 </details>
 
-
+---
 ### Connect with me:
 
 <div align="center">
