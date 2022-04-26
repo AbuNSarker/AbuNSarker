@@ -5,6 +5,26 @@
 - [x] I’m looking to collaborate on ML, DL or Data Science project(s)
 - [x] 2022 Goals: Contribute more to Open Source projects 
 
+<div align="center">                          
+  <h1 align="center">Engr Saad</h1>  
+    
+[![javascript][javascript-shield]][javascript-url]
+[![python][python-shield]][python-url]
+[![java][java-shield]][java-url] 
+[![c][c-shield]][c-url]
+[![react.js][react-shield]][react-url]  
+[![node.js][node-shield]][node-url]  
+[![mysql][MySQL-shield]][mysql-url]  
+[![html][html-shield]][html-url]
+[![css][css-shield]][css-url].
+[![visual-studio][vs-shield]][vs-url]
+[![linux][linux-shield]][linux-url]
+[![windows][windows-shield]][windows-url]
+[![latex][latex-shield]][latex-url]
+[![markdown][md-shield]][md-url]
+[![bash][bash-shield]][bash-url]
+</div>
+
 
 ### Programming Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
