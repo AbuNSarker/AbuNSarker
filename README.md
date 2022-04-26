@@ -16,6 +16,7 @@
   
 [![visual-studio][vs-shield]][vs-url]
 [![eclipse][eclipse-shield]][eclipse-url]
+[![jupyter][jupyter-shield]][jupyter-url]
 [![linux][linux-shield]][linux-url]
 [![windows][windows-shield]][windows-url]
 [![latex][latex-shield]][latex-url]
@@ -125,6 +126,8 @@
 [openmp-url]:https://www.tutorialspoint.com/what-is-openmp/
 [mpi-shield]:https://img.shields.io/badge/MPI-DDDDEE?style=flat-square&logo=c&logoColor=white
 [mpi-url]:https://hpc-tutorials.llnl.gov/mpi/
+[jupyter-shield]:https://img.shields.io/badge/Jupyter-BBAAEE?style=flat-square&logo=jupyter&logoColor=red
+[jupyter-url]:https://jupyter.org/
 [ada-shield]:
 [ada-url]: 
 
