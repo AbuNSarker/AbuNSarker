@@ -29,10 +29,8 @@
 - [x] I’m currently learning Machine Learning (ML), Deep Learning (DL), and Spring-boot frameworks
 - [x] I’m looking to collaborate on ML, DL or Data Science project(s)
 - [x] 2022 Goals: Contribute more to Open Source projects 
+- [x] Lead Programming Languages and Tools:
  
-</br>
- 
-<h2 align="left">Lead Programming Languages and Tools</h2>
 <div align="center">  
 
 <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -60,14 +58,11 @@
     <!-- <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/>  </a> -->  
 </p>
   <!--END_SECTION:activity-->
-
 </details>
 
 
+### Connect with me:
 
-<!-- Contact Me -->
-
-<h2 align="left">Connect with me:</h2>
 <div align="center">
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-n-sarker/)
@@ -78,7 +73,6 @@
 
 </div> 
 
-<br />
 <br />
 
 <!-- My Social media links-->
