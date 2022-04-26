@@ -31,12 +31,7 @@
 
 <br />
 <br />
-[<img align="left" alt="abu-n-sarker | Java" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/java.svg" />][Java]
-[<img align="left" alt="abu-n-sarker | JavaScript" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/javascript.svg" />][JavaScript]
-[<img align="left" alt="abu-n-sarker | Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@6.19.0/icons/python.svg" />][Python]
-[<img align="left" alt="abu-n-sarker | Java" width="22px" src="https://img.icons8.com/color/452/java-coffee-cup-logo--v1.png" />][Java]
-<br />
-<br />
+
 
 ### Connect with me:
 
