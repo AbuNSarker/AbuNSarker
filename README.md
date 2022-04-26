@@ -1,11 +1,3 @@
-### Hi there, I'm Abu N. Sarker!!!
-
-- [x] I’m currently working on and corrosion project and creating a knowledge exchange app using MySQL, Express, React and Node. 
-- [x] I’m currently learning Machine Learning (ML), Deep Learning (DL), and Spring-boot frameworks
-- [x] I’m looking to collaborate on ML, DL or Data Science project(s)
-- [x] 2022 Goals: Contribute more to Open Source projects 
----
-
 <div align="center">                          
   <h1 align="center">Programming Languages and Tools</h1>  
   
@@ -32,7 +24,13 @@
 </div>
 
 ---
+### Hi there, I'm Abu N. Sarker!!!
 
+- [x] I’m currently working on and corrosion project and creating a knowledge exchange app using MySQL, Express, React and Node. 
+- [x] I’m currently learning Machine Learning (ML), Deep Learning (DL), and Spring-boot frameworks
+- [x] I’m looking to collaborate on ML, DL or Data Science project(s)
+- [x] 2022 Goals: Contribute more to Open Source projects 
+---
 ### Lead Programming Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webdevplaylist]
