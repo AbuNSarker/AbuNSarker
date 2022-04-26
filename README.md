@@ -69,7 +69,7 @@
 [![Github](https://img.shields.io/badge/GitHub-1877F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbuNSarker/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbuNSarker/)
 <br>
-![] https://komarev.com/ghpvc/?username=AbuNSarker
+![](https://komarev.com/ghpvc/?username=AbuNSarker)
   
 <!--
 [<img align="center" alt="abu-n-sarker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
