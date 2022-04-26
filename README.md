@@ -14,7 +14,7 @@
 [![c][c-shield]][c-url]
 [![react.js][react-shield]][react-url]  
 [![node.js][node-shield]][node-url]  
-[![mysql][MySQL-shield]][mysql-url]  
+[![mysql][mysql-shield]][mysql-url]  
 [![html][html-shield]][html-url]
 [![css][css-shield]][css-url].
 [![visual-studio][vs-shield]][vs-url]
@@ -105,8 +105,19 @@
 [go-url]: https://go.dev/
 [c#-shield]: https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white
 [c#-url]: https://docs.microsoft.com/en-us/dotnet/csharp/
+[matlab-shield]:https://img.shields.io/badge/MATLAB-EEAAEE?style=flat-square&logo=react&logoColor=red
+[matlab-url]: https://www.tutorialspoint.com/matlab/index.htm
+
+<!-- Web tool and library -->
+[react-shield]: https://img.shields.io/badge/React.JS-00EEEE?style=flat-square&logo=react&logoColor=red
+[react-url]: https://www.w3schools.com/REACT/DEFAULT.ASP
+[node-shield]:https://img.shields.io/badge/node.JS-EEEFAE?style=flat-square&logo=node.js&logoColor=green
+[node-url]: https://www.w3schools.com/nodejs/
+[mysql-shield]:https://img.shields.io/badge/MySQL-EEEEEE?style=flat-square&logo=mysql&logoColor=red
+[mysql-url]: https://www.w3schools.com/mySQl/default.asp
 [ada-shield]:
 [ada-url]: 
+
 <!-- markdown languages -->
 [html-shield]: https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white
 [html-url]: https://www.html.it/
