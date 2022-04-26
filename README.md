@@ -7,13 +7,13 @@
 
 <div align="center">                          
   <h1 align="center">Abu N. Sarker</h1>  
-    
 [![javascript][javascript-shield]][javascript-url]
 [![python][python-shield]][python-url]
 [![java][java-shield]][java-url] 
 [![c][c-shield]][c-url]
-[![react.js][react-shield]][react-url]  
-[![node.js][node-shield]][node-url]  
+[![MATLAB][matlab-shield]][matlab-url]
+[![react][react-shield]][react-url]  
+[![node][node-shield]][node-url]  
 [![mysql][mysql-shield]][mysql-url]  
 [![html][html-shield]][html-url]
 [![css][css-shield]][css-url].
