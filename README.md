@@ -1,10 +1,9 @@
-### Hi there, I'm Abu Naser Sarker!!!👋
+### Hi there, I'm Abu N. Sarker!!!
 
 - 👉 I’m currently working on and corrosion project and creating a knowledge exchange app using MySQL, Express, React and Node. 
-- 👉 I’m currently learning everything 😄... ML, DL, Flux and Spring-boot frameworks
-- 👉 I’m looking to collaborate on ML, DL or Data Science project(s)
-- 👉 I’m looking for help with AWS 
-- 👉 2022 Goals: Contribute more to Open Source projects
+- [] I’m currently learning everything 😄... Machine Learning (ML), Deep Learning (DL), and Spring-boot frameworks
+- [*] I’m looking to collaborate on ML, DL or Data Science project(s)
+- [x] 2022 Goals: Contribute more to Open Source projects
 
 
 ### Languages and Tools:
