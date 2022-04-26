@@ -121,7 +121,7 @@
 [node-url]: https://www.w3schools.com/nodejs/
 [mysql-shield]:https://img.shields.io/badge/MySQL-EEEEEE?style=flat-square&logo=mysql&logoColor=red
 [mysql-url]:https://www.w3schools.com/mySQl/default.asp
-[openmp-shield]:https://img.shields.io/badge/MySQL-EEEEEE?style=flat-square&logo=mysql&logoColor=red
+[openmp-shield]:https://img.shields.io/badge/OpenMP-EEEEEE?style=flat-square&logo=c&logoColor=red
 [openmp-url]:https://www.tutorialspoint.com/what-is-openmp/
 [mpi-shield]:https://img.shields.io/badge/MPI-DDDDEE?style=flat-square&logo=c&logoColor=white
 [mpi-url]:https://hpc-tutorials.llnl.gov/mpi/
