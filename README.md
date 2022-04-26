@@ -16,10 +16,13 @@
 [![react][react-shield]][react-url]
 [![node][node-shield]][node-url]
 [![mysql][mysql-shield]][mysql-url]
-
-[![html][html-shield]][html-url].
+[![html][html-shield]][html-url]
 [![css][css-shield]][css-url]
+[![openmp][openmp-shield]][openmp-url]
+[![MPI][mpi-shield]][mpi-url]
+  
 [![visual-studio][vs-shield]][vs-url]
+[![eclipse][eclipse-shield]][eclipse-url]
 [![linux][linux-shield]][linux-url]
 [![windows][windows-shield]][windows-url]
 [![latex][latex-shield]][latex-url]
@@ -117,6 +120,10 @@
 [node-url]: https://www.w3schools.com/nodejs/
 [mysql-shield]:https://img.shields.io/badge/MySQL-EEEEEE?style=flat-square&logo=mysql&logoColor=red
 [mysql-url]:https://www.w3schools.com/mySQl/default.asp
+[openmp-shield]:https://img.shields.io/badge/MySQL-EEEEEE?style=flat-square&logo=mysql&logoColor=red
+[openmp-url]:https://www.tutorialspoint.com/what-is-openmp
+[mpi-shield]:https://img.shields.io/badge/MPI-DDDDEE?style=flat-square&logo=c&logoColor=white
+[mpi-url]:https://hpc-tutorials.llnl.gov/mpi/
 [ada-shield]:
 [ada-url]: 
 
