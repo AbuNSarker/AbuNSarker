@@ -25,8 +25,8 @@
 
 <h3 align="left">Hi there, I'm Abu N. Sarker!!!</h3>
 
-- [x] I’m currently working on and corrosion project and creating a knowledge exchange app using MySQL, Express, React and Node. 
-- [x] I’m currently learning Machine Learning (ML), Deep Learning (DL), and Spring-boot frameworks
+- [x] Currently, I’m  working on corrosion project and creating a knowledge exchange app using MySQL, Express, React and Node. 
+- [x] I’m learning Machine Learning (ML), Deep Learning (DL), and Spring-boot frameworks
 - [x] I’m looking to collaborate on ML, DL or Data Science project(s)
 - [x] Goals: Contribute more to Open Source projects 
 - [x] Lead programming languages and tools:
