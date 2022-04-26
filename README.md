@@ -18,7 +18,7 @@
 [![mysql][mysql-shield]][mysql-url]
 [![html][html-shield]][html-url]
 [![css][css-shield]][css-url]
-[![openmp][openmp-shield]][openmp-url]
+[![OpenMP][openmp-shield]][openmp-url]
 [![MPI][mpi-shield]][mpi-url]
   
 [![visual-studio][vs-shield]][vs-url]
@@ -121,7 +121,7 @@
 [mysql-shield]:https://img.shields.io/badge/MySQL-EEEEEE?style=flat-square&logo=mysql&logoColor=red
 [mysql-url]:https://www.w3schools.com/mySQl/default.asp
 [openmp-shield]:https://img.shields.io/badge/MySQL-EEEEEE?style=flat-square&logo=mysql&logoColor=red
-[openmp-url]:https://www.tutorialspoint.com/what-is-openmp
+[openmp-url]:https://www.tutorialspoint.com/what-is-openmp/
 [mpi-shield]:https://img.shields.io/badge/MPI-DDDDEE?style=flat-square&logo=c&logoColor=white
 [mpi-url]:https://hpc-tutorials.llnl.gov/mpi/
 [ada-shield]:
