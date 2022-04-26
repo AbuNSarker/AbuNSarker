@@ -116,9 +116,9 @@
 [matlab-url]:https://www.tutorialspoint.com/matlab/index.htm
 
 <!-- Web tool and library -->
-[react-shield]:https://img.shields.io/badge/React.JS-00EEEE?style=flat-square&logo=react&logoColor=red
+[react-shield]:https://img.shields.io/badge/React.js-00EEEE?style=flat-square&logo=react&logoColor=red
 [react-url]: https://www.w3schools.com/REACT/DEFAULT.ASP
-[node-shield]:https://img.shields.io/badge/node.JS-EEEFAE?style=flat-square&logo=node.js&logoColor=green
+[node-shield]:https://img.shields.io/badge/Node.js-EEEFAE?style=flat-square&logo=node.js&logoColor=green
 [node-url]: https://www.w3schools.com/nodejs/
 [mysql-shield]:https://img.shields.io/badge/MySQL-EEEEEE?style=flat-square&logo=mysql&logoColor=red
 [mysql-url]:https://www.w3schools.com/mySQl/default.asp
