@@ -32,24 +32,27 @@
  
 </br>
  
-<h2 align="left">Lead Programming Languages and Tools</h2>
+<h3 align="left">Lead Programming Languages and Tools</h3>
 <div align="center">  
-<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
 <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="center" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="center" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
 <img align="center" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
+ <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 </div>
   
 <br />
 
 
---------
+---
 
 <details open="">
-  <summary><b>📈 GitHub Stats</b></summary>
+  <h3 align="left"><b>📈 GitHub Stats</b></h3>
+  <div align="center"> 
+  
   <!--START_SECTION:activity-->
   <p align="center">
     <a href="https://github.com/AbuNSarker/AbuNSarker"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AbuNSarker&theme=light"/></a>
@@ -58,11 +61,14 @@
     <!-- <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/>  </a> -->  
 </p>
   <!--END_SECTION:activity-->
+  </div>
 </details>
 
 
-### Connect with me:
 
+<!-- Contact Me -->
+
+<h2 align="left">Connect with me:</h2>
 <div align="center">
   
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-n-sarker/)
@@ -71,6 +77,7 @@
   
 </div>
 
+### Connect with me:
 [<img align="left" alt="abu-n-sarker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AbuNSarker | GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
   
