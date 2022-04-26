@@ -10,13 +10,13 @@
   
 [![javascript][javascript-shield]][javascript-url]
 [![python][python-shield]][python-url]
-[![java][java-shield]][java-url] 
+[![java][java-shield]][java-url]
 [![c][c-shield]][c-url]
 [![MATLAB][matlab-shield]][matlab-url]
-[![react][react-shield]][react-url]  
-[![node][node-shield]][node-url]  
-[![mysql][mysql-shield]][mysql-url]  
-  
+[![react][react-shield]][react-url]
+[![node][node-shield]][node-url]
+[![mysql][mysql-shield]][mysql-url]
+
 [![html][html-shield]][html-url].
 [![css][css-shield]][css-url]
 [![visual-studio][vs-shield]][vs-url]
