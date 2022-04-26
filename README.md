@@ -1,5 +1,5 @@
 <div align="center">                          
-  <h1 align="center">Programming Languages and Tools</h1>  
+  <h1 align="center">ABU N. SARKER</h1>  
   
 [![javascript][javascript-shield]][javascript-url]
 [![python][python-shield]][python-url]
@@ -23,9 +23,10 @@
 [![bash][bash-shield]][bash-url]
 </div>
 
----
-### Hi there, I'm Abu N. Sarker!!!
-
+<!-- Intro Headline -->
+<div align="left">                          
+  <h1 align="center">Hi there, I'm Abu N. Sarker!!!</h1>  
+</div>  
 - [x] I’m currently working on and corrosion project and creating a knowledge exchange app using MySQL, Express, React and Node. 
 - [x] I’m currently learning Machine Learning (ML), Deep Learning (DL), and Spring-boot frameworks
 - [x] I’m looking to collaborate on ML, DL or Data Science project(s)
