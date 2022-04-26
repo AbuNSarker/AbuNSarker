@@ -23,7 +23,8 @@
 [![bash][bash-shield]][bash-url]
 </div>
 
-### Hi there, I'm Abu N. Sarker!!!
+<h3 align="left">Hi there, I'm Abu N. Sarker!!!</h3>
+
 - [x] I’m currently working on and corrosion project and creating a knowledge exchange app using MySQL, Express, React and Node. 
 - [x] I’m currently learning Machine Learning (ML), Deep Learning (DL), and Spring-boot frameworks
 - [x] I’m looking to collaborate on ML, DL or Data Science project(s)
@@ -46,12 +47,14 @@
 
 <details open="">
   <summary><b>📈 GitHub Stats</b></summary>
+  <!--START_SECTION:activity-->
   <p align="center">
     <a href="https://github.com/AbuNSarker/AbuNSarker"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AbuNSarker&theme=light"/></a>
     <a href="https://github.com/AbuNSarker/AbuNSarker"><img alt="Abu N. Sarker's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbuNSarker&show_icons=true" width=55%/></a>
     <a href="https://github.com/AbuNSarker/AbuNSarker"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuNSarker&layout=compact&langs_count=8" width=40%/></a>
     <!-- <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/>  </a> -->  
 </p>
+  <!--END_SECTION:activity-->
 </details>
 
 
@@ -64,20 +67,7 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-<!--START_SECTION:activity-->
-1.
-<!--END_SECTION:activity-->
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="AbuNSarker's GitHub Stats" src="https://github-readme-stats.abunsarker.vercel.app/api?username=abunsarker&show_icons=true&hide_border=true" />
-
-</details>
-
+<!-- My Social media links-->
 [github]: https://github.com/AbuNSarker
 [linkedin]: https://linkedin.com/in/abu-n-sarker
 [webdevplaylist]: https://www.youtube.com/channel/UCkwRYvLMIFdUSOqhHJcAc1
