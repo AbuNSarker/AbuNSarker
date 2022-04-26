@@ -1,5 +1,13 @@
+### Hi there, I'm Abu N. Sarker!!!
+
+- [x] I’m currently working on and corrosion project and creating a knowledge exchange app using MySQL, Express, React and Node. 
+- [x] I’m currently learning Machine Learning (ML), Deep Learning (DL), and Spring-boot frameworks
+- [x] I’m looking to collaborate on ML, DL or Data Science project(s)
+- [x] 2022 Goals: Contribute more to Open Source projects 
+---
+
 <div align="center">                          
-  <h1 align="center">Abu N. Sarker</h1>  
+  <h1 align="center">Programming Languages and Tools</h1>  
   
 [![javascript][javascript-shield]][javascript-url]
 [![python][python-shield]][python-url]
@@ -24,14 +32,8 @@
 </div>
 
 ---
-### Hi there, I'm Abu N. Sarker!!!
 
-- [x] I’m currently working on and corrosion project and creating a knowledge exchange app using MySQL, Express, React and Node. 
-- [x] I’m currently learning Machine Learning (ML), Deep Learning (DL), and Spring-boot frameworks
-- [x] I’m looking to collaborate on ML, DL or Data Science project(s)
-- [x] 2022 Goals: Contribute more to Open Source projects 
----
-### Programming Languages and Tools:
+### Lead Programming Languages and Tools:
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][webdevplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][webdevplaylist]
@@ -39,20 +41,6 @@
 [<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />][webdevplaylist]
 [<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />][webdevplaylist]
 [<img align="left" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />][webdevplaylist]
-
-
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][webdevplaylist]
-
-
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-
-[<img align="left" alt="OpenMP" width="26px" src="https://www.openmp.org/wp-content/uploads/openmp-logo-animation.gif" />][webdevplaylist]
-[<img align="left" alt="MPI" width="26px" src="https://blog.xrds.acm.org/wp-content/uploads/2017/01/MPIlogo2.gif" />][webdevplaylist]
-
 
 <br />
 <br />
@@ -65,8 +53,8 @@
     <a href="https://github.com/AbuNSarker/AbuNSarker"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AbuNSarker&theme=light"/></a>
     <a href="https://github.com/AbuNSarker/AbuNSarker"><img alt="Abu N. Sarker's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbuNSarker&show_icons=true" width=55%/></a>
     <a href="https://github.com/AbuNSarker/AbuNSarker"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuNSarker&layout=compact&langs_count=8" width=40%/></a>
-   <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/></a>
-  </p>
+    <!-- <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/>  </a> -->  
+</p>
 </details>
 
 
