@@ -30,49 +30,17 @@
 - [x] I’m looking to collaborate on ML, DL or Data Science project(s)
 - [x] 2022 Goals: Contribute more to Open Source projects 
  
+</br>
  
- <h2 align="center">Lead Programming Languages and Tools</h2>
-
-<p align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" height="30" width="30">
-  </a>
-  
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="Reactjs" height="30" width="30">
-  </a>
-  
-    <a href="#">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs" height="30" width="30">
-  </a>
-  
-    <a href="#">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="30" width="30">
-  </a>
-  
-    <a href="#">
-    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="30" width="30">
-  </a>
-  
-    <a href="#">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="Matlab" height="30" width="30">
-  </a>
-</p>
-
-
- 
- 
----
-### Lead Programming Languages and Tools:
+<h2 align="center">Lead Programming Languages and Tools</h2>
 <div align="center">  
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
-<img align="left" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
-<img align="left" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
-  
+<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="center" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+<img align="center" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" />
+<img align="center" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />
 </div>
   
 <br />
