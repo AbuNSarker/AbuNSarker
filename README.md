@@ -32,7 +32,7 @@
  
 </br>
  
-<h2 align="center">Lead Programming Languages and Tools</h2>
+<h2 align="left">Lead Programming Languages and Tools</h2>
 <div align="center">  
 <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -64,9 +64,11 @@
 ### Connect with me:
 
 <div align="center">
+  
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-n-sarker/)
 [![Github](https://img.shields.io/badge/GitHub-1877F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbuNSarker/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbuNSarker/)
+  
 </div>
 
 [<img align="left" alt="abu-n-sarker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
