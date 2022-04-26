@@ -55,9 +55,8 @@
     <a href="https://github.com/AbuNSarker/AbuNSarker"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AbuNSarker&theme=light"/></a>
     <a href="https://github.com/AbuNSarker/AbuNSarker"><img alt="Abu N. Sarker's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbuNSarker&show_icons=true" width=55%/></a>
     <a href="https://github.com/AbuNSarker/AbuNSarker"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuNSarker&layout=compact&langs_count=8" width=40%/></a>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbuNSarker&bg_color=00AADD&color=EED866&line=F85D7F&point=FFFFEE&hide_border=true" /></a>
-    
-    <!-- <a href="https://github.com/mikyll/mikyll"><img alt="Snake animation" src="https://github.com/mikyll/mikyll/blob/output/github-contribution-grid-snake.svg"/>  </a> -->  
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbuNSarker&bg_color=F3F2EF&color=000000&line=F85D7F&point=FFFFEE&hide_border=true" width=95%/></a>
+   
 </p>
   <!--END_SECTION:activity-->
 </details>
