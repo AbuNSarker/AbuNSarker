@@ -28,8 +28,8 @@
 - [x] I’m currently working on and corrosion project and creating a knowledge exchange app using MySQL, Express, React and Node. 
 - [x] I’m currently learning Machine Learning (ML), Deep Learning (DL), and Spring-boot frameworks
 - [x] I’m looking to collaborate on ML, DL or Data Science project(s)
-- [x] 2022 Goals: Contribute more to Open Source projects 
-- [x] Lead Programming Languages and Tools:
+- [x] Goals: Contribute more to Open Source projects 
+- [x] Lead programming languages and tools:
  
 <div align="center">  
 
