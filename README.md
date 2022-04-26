@@ -73,8 +73,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-n-sarker/)
 [![Github](https://img.shields.io/badge/GitHub-1877F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbuNSarker/)  
 
-[<img align="left" alt="abu-n-sarker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="AbuNSarker | GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
+[<img align="center" alt="abu-n-sarker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="AbuNSarker | GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
 
 </div> 
 
