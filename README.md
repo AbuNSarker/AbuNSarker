@@ -26,7 +26,9 @@
 
 <h3 align="left">Hi there, I'm Abu N. Sarker!!!</h3>
 
-- [x] I’m currently developing a software for estimate for pitting corrosion over time and creating a website for Research Exchange using MySQL, Express, React.js and Node.js. 
+- [x] I’m currently working on two projects: <br />
+        1. Developing a software to estimate the pitting corrosion growth over time and <br />
+        2. creating a website for Research Exchange using MySQL, Express, React.js and Node.js. 
 - [x] I’m learning Machine Learning (ML), Deep Learning (DL), and Spring-boot frameworks
 - [x] I’m looking to collaborate on ML, DL or Data Science project(s)
 - [x] Goals: Contribute more to open source projects 
