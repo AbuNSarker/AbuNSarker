@@ -9,8 +9,6 @@
 [![react][react-shield]][react-url]
 [![node][node-shield]][node-url]
 [![mysql][mysql-shield]][mysql-url]
-[![html][html-shield]][html-url]
-[![css][css-shield]][css-url]
 [![OpenMP][openmp-shield]][openmp-url]
 [![MPI][mpi-shield]][mpi-url]
   
