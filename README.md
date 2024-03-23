@@ -12,23 +12,23 @@
 [![OpenMP][openmp-shield]][openmp-url]
 [![MPI][mpi-shield]][mpi-url]
   
-
-[![eclipse][eclipse-shield]][eclipse-url]
-[![jupyter][jupyter-shield]][jupyter-url]
+[![bash][bash-shield]][bash-url]
+[![latex][latex-shield]][latex-url]
 [![linux][linux-shield]][linux-url]
 [![windows][windows-shield]][windows-url]
-[![latex][latex-shield]][latex-url]
+[![jupyter][jupyter-shield]][jupyter-url]
+[![eclipse][eclipse-shield]][eclipse-url]
 [![markdown][md-shield]][md-url]
-[![bash][bash-shield]][bash-url]
+
 </div>
 
 <h3 align="left"> I'm Abu N. Sarker!!!</h3>
 
-- [x] I’m currently working on the flowing projects: <br />
+- [x] I’m currently working on the following projects: <br />
         1. Designing and developing deep learning models for Airfoil and wind engineering applications. <br />
         2. Developing software to estimate the pitting corrosion growth over time.<br />
-- [x] I’m currently using OpenFOAM, C++ and HPC for simulations purpose, and Python and PyTorch for implementing deep learning.
-- [x] I’m looking to collaborate on Deep Learning, Turbulnce Modeling or Adaptive Moving Mesh project(s)
+- [x] I’m currently using OpenFOAM, C++, and HPC for simulation purposes, as well as Python and PyTorch to implement deep learning.
+- [x] I’m looking to collaborate on Deep Learning, Turbulence Modeling or Adaptive Moving Mesh project(s)
 - [x] Goals: Contribute more to open-source projects 
 
 <!--   - [x] Lead programming languages and tools:-->
@@ -59,13 +59,14 @@
 
   <!--START_SECTION:activity-->
   <p align="center">
-    <!--
-    <a href="https://github.com/AbuNSarker/AbuNSarker"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AbuNSarker&theme=light"/></a>
+  <!--   
+  <a href="https://github.com/AbuNSarker/AbuNSarker"><img alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AbuNSarker&theme=light"/></a>
     -->
-    <a href="https://github.com/AbuNSarker/AbuNSarker"><img alt="Abu N. Sarker's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbuNSarker&show_icons=true" width=55%/></a>
-    <a href="https://github.com/AbuNSarker/AbuNSarker"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuNSarker&layout=compact&langs_count=8" width=40%/></a>
-<a href="https://github.com/AbuNSarker/AbuNSarker"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbuNSarker&bg_color=F3F2EF&color=000000&line=F85D7F&point=000000&hide_border=true" width=95%/></a>
-   
+  <a href="https://github.com/AbuNSarker/AbuNSarker"><img alt="Abu N. Sarker's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AbuNSarker&show_icons=true" width=55%/></a>
+  <a href="https://github.com/AbuNSarker/AbuNSarker"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuNSarker&layout=compact&langs_count=8" width=40%/></a>
+    
+ <!-- <a href="https://github.com/AbuNSarker/AbuNSarker"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AbuNSarker&bg_color=F3F2EF&color=000000&line=F85D7F&point=000000&hide_border=true" width=95%/></a>  -->
+
 </p>
   <!--END_SECTION:activity-->
 </details>
