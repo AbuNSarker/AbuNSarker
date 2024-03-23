@@ -1,9 +1,9 @@
 <div align="center">                          
   <h1 align="center">Welcome to my profile!</h1>  
   
-[![javascript][javascript-shield]][javascript-url]
 [![python][python-shield]][python-url]
 [![java][java-shield]][java-url]
+[![javascript][javascript-shield]][javascript-url]
 [![c][c-shield]][c-url]
 [![MATLAB][matlab-shield]][matlab-url]
 [![react][react-shield]][react-url]
@@ -12,7 +12,7 @@
 [![OpenMP][openmp-shield]][openmp-url]
 [![MPI][mpi-shield]][mpi-url]
   
-[![visual-studio][vs-shield]][vs-url]
+
 [![eclipse][eclipse-shield]][eclipse-url]
 [![jupyter][jupyter-shield]][jupyter-url]
 [![linux][linux-shield]][linux-url]
@@ -24,25 +24,31 @@
 
 <h3 align="left"> I'm Abu N. Sarker!!!</h3>
 
-- [x] I’m currently working on two projects: <br />
-        1. Developing software to estimate the pitting corrosion growth over time and <br />
-        2. Creating a website for Research Exchange using MySQL, Express, React.js and Node.js. 
-- [x] I’m learning Machine Learning (ML), Deep Learning (DL), and Spring-boot frameworks
-- [x] I’m looking to collaborate on ML, DL, or Data Science project(s)
+- [x] I’m currently working on the flowing projects: <br />
+        1. Designing and developing deep learning models for Airfoil and wind engineering applications. <br />
+        2. Developing software to estimate the pitting corrosion growth over time.<br />
+- [x] I’m currently using OpenFOAM, C++ and HPC for simulations purpose, and Python and PyTorch for implementing deep learning.
+- [x] I’m looking to collaborate on Deep Learning, Turbulnce Modeling or Adaptive Moving Mesh project(s)
 - [x] Goals: Contribute more to open-source projects 
-- [x] Lead programming languages and tools:
- 
-<div align="center">  
 
+<!--   - [x] Lead programming languages and tools:-->
+ 
+<div align="center"> 
+  <!--  Deactive
 <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="center" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> 
 <img align="center" alt="Java" width="26px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" /> 
 <img align="center" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+ -->
 <!-- <img align="center" alt="Matlab" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" /> -->
+<!--   
  <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+   -->
 </div>
-  
+
+
+ 
 <br />
 
 
