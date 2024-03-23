@@ -22,7 +22,7 @@
 
 </div>
 
-<h3 align="left"> I'm Abu N. Sarker!!!</h3>
+<h3 align="left"> I'm Abu Naser Sarker!!!</h3>
 
 - [x] I’m currently working on the following projects: <br />
         1. Designing and developing deep learning models for Airfoil and wind engineering applications. <br />
