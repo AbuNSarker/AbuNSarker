@@ -22,14 +22,14 @@
 [![bash][bash-shield]][bash-url]
 </div>
 
-<h3 align="left">Hi there, I'm Abu N. Sarker!!!</h3>
+<h3 align="left"> I'm Abu N. Sarker!!!</h3>
 
 - [x] I’m currently working on two projects: <br />
-        1. Developing a software to estimate the pitting corrosion growth over time and <br />
+        1. Developing software to estimate the pitting corrosion growth over time and <br />
         2. Creating a website for Research Exchange using MySQL, Express, React.js and Node.js. 
 - [x] I’m learning Machine Learning (ML), Deep Learning (DL), and Spring-boot frameworks
-- [x] I’m looking to collaborate on ML, DL or Data Science project(s)
-- [x] Goals: Contribute more to open source projects 
+- [x] I’m looking to collaborate on ML, DL, or Data Science project(s)
+- [x] Goals: Contribute more to open-source projects 
 - [x] Lead programming languages and tools:
  
 <div align="center">  
@@ -67,21 +67,7 @@
 ---
 ### Connect with me:
 
-<div align="center">
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-n-sarker/) 
-  
-[![Github](https://img.shields.io/badge/GitHub-1877F2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbuNSarker/)
-  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://github.com/AbuNSarker/)
-<br>
-![](https://komarev.com/ghpvc/?username=AbuNSarker)
-  
-<!--
-[<img align="center" alt="abu-n-sarker | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="AbuNSarker | GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][github]
--->
-  
-</div> 
+
 
 <br />
 
