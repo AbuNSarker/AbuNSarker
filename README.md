@@ -25,8 +25,8 @@
 <h3 align="left"> I'm Abu Naser Sarker!!!</h3>
 
 - [x] I’m currently working on the following projects: <br />
-        1. Designing and developing deep learning models for Airfoil and wind engineering applications. <br />
-        2. Developing software to estimate the pitting corrosion growth over time.<br />
+        1. Developing software to estimate the pitting corrosion growth over time.<br />
+        2. Designing and developing deep learning models for Airfoil and wind engineering applications. <br /> 
 - [x] I’m currently using OpenFOAM, C++, and HPC for simulation purposes, as well as Python and PyTorch to implement deep learning.
 - [x] I’m looking to collaborate on Deep Learning, Turbulence Modeling or Adaptive Moving Mesh project(s)
 - [x] Goals: Contribute more to open-source projects 
